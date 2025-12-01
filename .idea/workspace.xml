@@ -4,55 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be5970cf-268a-496c-b43a-ff985c042aac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FirstWeek.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/add_to_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/count_value_in_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/dict_access.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/dict_add_key.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/dict_merge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/dict_remove_key.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/max_min_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/merge_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/remove_from_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/set_intersection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/sort_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/tuple_concatenate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/tuple_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_flow/break_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_flow/continue_odd_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_flow/even_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_flow/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_flow/match_day_week.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_flow/palindrome_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_flow/pass_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_flow/sum_to_nine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_flow/while_even_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types/convert_datatypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types/string_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types/type_of_z.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types/uppercase_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/calculate_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/distinct_sorted_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/factorial_recursive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/reverse_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/sum_two_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_and_print/arithmetic_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_and_print/format_decimal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_and_print/greeting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_and_print/split_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_and_print/voting_eligibility.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehensions/convert_strings_to_ints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehensions/dict_from_two_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehensions/filter_greater_than_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehensions/filter_scores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehensions/flatten_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehensions/squares_1_to_5.py" afterDir="false" />
+    <list default="true" id="be5970cf-268a-496c-b43a-ff985c042aac" name="Changes" comment="initial commit for first week assignment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "piyush12197"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/piyush12197/FirstWeekAssignment.git",
+    "accountId": "d532818b-0b3e-455f-978e-c696e6646ced"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -130,6 +95,19 @@
       <option name="presentableId" value="Default" />
       <updated>1764605404271</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit for first week assignment">
+      <option name="closed" value="true" />
+      <created>1764618554445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764618554445</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit for first week assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit for first week assignment" />
   </component>
 </project>
